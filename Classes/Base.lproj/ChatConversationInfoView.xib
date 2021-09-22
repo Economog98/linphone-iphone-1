@@ -117,7 +117,7 @@
                         <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" adjustsImageWhenHighlighted="NO" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Hnm-7C-dBQ" userLabel="quitButton" customClass="UIRoundBorderedButton">
                             <rect key="frame" x="113" y="737" width="189" height="43"/>
                             <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES"/>
-                            <color key="backgroundColor" red="0.98273354768753052" green="0.36591529846191406" blue="0.0092478422448039055" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <color key="backgroundColor" red="0.22745098039215686" green="0.56470588235294117" blue="0.26666666666666666" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <accessibility key="accessibilityConfiguration" label="Use SIP account">
                                 <bool key="isElement" value="YES"/>
                             </accessibility>

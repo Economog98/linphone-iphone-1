@@ -124,7 +124,7 @@
                         <constraint firstAttribute="height" constant="40" id="NkG-qe-o3R"/>
                     </constraints>
                     <fontDescription key="fontDescription" type="system" pointSize="16"/>
-                    <state key="normal" title="USE LINPHONE ACCOUNT">
+                    <state key="normal" title="USE TELECOMS ACCOUNT">
                         <color key="titleColor" systemColor="labelColor"/>
                     </state>
                     <state key="disabled">

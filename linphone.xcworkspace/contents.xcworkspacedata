@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:linphone.xcodeproj">
+      location = "group:/Users/g.economou/Documents/linphone-iphone-1/linphone.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">

@@ -89,7 +89,7 @@
                                     <attributedString key="attributedText">
                                         <fragment content="Telecoms SIP Client">
                                             <attributes>
-                                                <color key="NSColor" red="0.22745000000000001" green="0.56471000000000005" blue="0.26667000000000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <color key="NSColor" red="0.22745098039215686" green="0.56470588235294117" blue="0.26666666666666666" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <font key="NSFont" size="26" name="HelveticaNeue"/>
                                                 <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0" allowsDefaultTighteningForTruncation="NO"/>
                                             </attributes>
