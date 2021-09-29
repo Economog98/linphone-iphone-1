@@ -72,7 +72,7 @@
 	if (acc &&
 		strcmp([LinphoneManager.instance lpConfigStringForKey:@"domain_name"
 													inSection:@"app"
-												  withDefault:@"sip.linphone.org"]
+												  withDefault:@"sip.telecoms.eu"]
 				   .UTF8String,
 			   linphone_account_params_get_domain(accParams)) == 0) {
 		linphone_account_creator_set_username(
