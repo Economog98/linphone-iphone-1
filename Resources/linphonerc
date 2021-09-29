@@ -52,6 +52,23 @@ reg_expires=1314000
 file_transfer_server_url=https://www.linphone.org:444/lft.php
 real_early_media=1
 prefer_basic_chat_room=-1
+speex_16k_preference=0
+speex_8k_preference=0
+silk_16k_preference=0
+add_missing_audio_codecs=0
+
+[audio_codec_0]
+mime=pcmu
+enabled=1
+
+[audio_codec_1]
+mime=pcma
+enabled=1
+
+[audio_codec_2]
+mime=gsm
+enabled=0
+
 
 [net]
 edge_bw=10
@@ -68,7 +85,7 @@ video_jitt_comp=60
 video_rtp_port=9200-9299
 
 [sip]
-contact="Linphone iPhone" <sip:linphone.iphone@unknown-host>
+contact="SipClient" <sip:telecoms.iphone@unknown-host>
 guess_hostname=1
 inc_timeout=45
 keepalive_period=30000
