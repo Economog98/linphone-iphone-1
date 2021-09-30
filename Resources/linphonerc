@@ -75,7 +75,9 @@ edge_bw=10
 edge_ping_time=10
 firewall_policy=ice
 mtu=1300
-stun_server=stun.linphone.org
+use_stun=0
+//stun_server=stun.linphone.org
+
 
 [rtp]
 audio_jitt_comp=60
