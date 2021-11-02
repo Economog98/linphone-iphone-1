@@ -4,11 +4,11 @@
 <dict>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.org.linphone.phone.msgNotification</string>
+		<string>group.eu.intelligentsolutions</string>
 	</array>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>$(AppIdentifierPrefix)org.linphone.phone</string>
+		<string>$(AppIdentifierPrefix)eu.intelligentsolutions</string>
 	</array>
 </dict>
 </plist>

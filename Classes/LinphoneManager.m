@@ -80,7 +80,7 @@ NSString *const kLinphoneVoiceMessagePlayerLostFocus = @"LinphoneVoiceMessagePla
 NSString *const kLinphoneConfStateChanged = @"kLinphoneConfStateChanged";
 NSString *const kLinphoneConfStateParticipantListChanged = @"kLinphoneConfStateParticipantListChanged";
 
-NSString *const kLinphoneMsgNotificationAppGroupId = @"group.org.linphone.phone.msgNotification";
+NSString *const kLinphoneMsgNotificationAppGroupId = @"group.eu.intelligentsolutions";
 
 const int kLinphoneAudioVbrCodecDefaultBitrate = 36; /*you can override this from linphonerc or linphonerc-factory*/
 
